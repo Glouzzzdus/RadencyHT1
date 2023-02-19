@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KyfoB65KFeszPH8qkxgVh4DCt0pd2yerjMEfmOm4WuKJj0On8QrupXRVYVKFRXT0dAqJi92TrhVNmGxxR+eDDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\glouz\\source\\repos\\RadencyHT1\\RadencyHT1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glouz\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\glouz\\.nuget\\packages\\fastcsvparser\\1.1.1\\fastcsvparser.1.1.1.nupkg.sha512",
+    "C:\\Users\\glouz\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
