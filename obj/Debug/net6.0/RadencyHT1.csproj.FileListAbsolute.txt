@@ -14,6 +14,5 @@ C:\Users\glouz\source\repos\RadencyHT1\obj\Debug\net6.0\refint\RadencyHT1.dll
 C:\Users\glouz\source\repos\RadencyHT1\obj\Debug\net6.0\RadencyHT1.pdb
 C:\Users\glouz\source\repos\RadencyHT1\obj\Debug\net6.0\RadencyHT1.genruntimeconfig.cache
 C:\Users\glouz\source\repos\RadencyHT1\obj\Debug\net6.0\ref\RadencyHT1.dll
-C:\Users\glouz\source\repos\RadencyHT1\bin\Debug\net6.0\CsvHelper.dll
 C:\Users\glouz\source\repos\RadencyHT1\bin\Debug\net6.0\CsvParser.dll
 C:\Users\glouz\source\repos\RadencyHT1\bin\Debug\net6.0\Newtonsoft.Json.dll

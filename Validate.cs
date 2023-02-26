@@ -8,11 +8,8 @@ namespace RadencyHT1
         public static int ParsedLines { get; set; } = 0;
         public static int ParsedFiles { get; set; } = 0;
         public static int LinesWithBadData { get; set; } = 0;
-        public static HashSet<string> FilesWithBadData { get; set; } = null;
-
         public static FullRecords ValidateParsedRow(string fileName, string[] parsedRow)
         {
-
             try
             {
                 var fName = parsedRow[0].Trim();
@@ -24,8 +21,7 @@ namespace RadencyHT1
                 var service = parsedRow[6].Trim();
 
                 ParsedLines++;
-                return new FullRecords(fName, lName, city, payment, date, accountId, service);
-                
+                return new FullRecords(fName, lName, city, payment, date, accountId, service);                
             }
             catch 
             {
